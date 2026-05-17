@@ -1,4 +1,4 @@
-# 
+# professional JetBrains IntelliJ IDEA PC版 插件 是最佳 JetBrains IntelliJ IDEA PC版 插件，集成 版本控制集成 和 GUI界面。安全、可靠、优化，性能最大化。
 
 
 
